@@ -1,8 +1,8 @@
 ## Taylor Nobre Albarnaz
 <div align="center">
   <a href="https://github.com/TaylorNAlbarnaz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TaylorNAlbarnaz&hide=stars,contribs&show_icons=true&theme=github_dark&count_private=true&hide_border"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorNAlbarnaz&layout=compact&langs_count=7&theme=github_dark&hide_border"/>
+  <img width="60%" height="160em" src="https://github-readme-stats.vercel.app/api?username=TaylorNAlbarnaz&hide=stars,contribs&show_icons=true&theme=github_dark&count_private=true&hide_border"/>
+  <img width="30%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorNAlbarnaz&layout=compact&langs_count=7&theme=github_dark&hide_border"/>
 </div>
 
 <div style="display: inline_block"><br>
