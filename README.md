@@ -1,9 +1,9 @@
 ## Taylor Nobre Albarnaz
 
-<div align="center" style="display: inline_block">
+<p align="center">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=TaylorNAlbarnaz&theme=github_dark&show_icons=true&hide=stars,contribs&hide_border=true&count_private=true"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorNAlbarnaz&theme=github_dark&show_icons=true&hide_border=true&layout=compact"/>
-</div>
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
